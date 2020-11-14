@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Marco, but everyone calls me "Tienda" 
+### My name is Marco, but everyone calls me "Tienda" 
 #### Web Development 
 I studied Computer Sciencie, I love web development and playing the guitar. 
 
