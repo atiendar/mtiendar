@@ -2,7 +2,7 @@
 #### Web Development 
 I studied Computer Sciencie, I love web development and playing the guitar. 
 
-Skills: Html / CSS / JavaScript / Git / Python
+Skills: Vue / Laravel / Python / Node Js
 
 - 🌱 I’m currently learning React JS / Node / Mongo DB 
 - 📫 How to reach me: mtiendar@protonmail.com 
