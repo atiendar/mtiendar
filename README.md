@@ -5,7 +5,7 @@ I studied Computer Sciencie, I love web development and playing the guitar.
 Skills: Vue / Laravel / Python / Node Js
 
 - 🌱 I’m currently learning React JS / Node / Mongo DB 
-- 📫 How to reach me: mtiendar@protonmail.com 
+- 📫 How to reach me: marco.tiendar@gmail.com
 - 😄 Pronouns: Tienda  
 - ⚡ Fun fact: Nobody talks to me by name 
 
